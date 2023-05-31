@@ -1,0 +1,20 @@
+body{
+    width: 100%;
+    background-color: rgb(135, 170, 195);
+}
+footer ul a{
+    color: black;
+    margin: 0;
+    text-decoration: none;
+}
+footer ul{
+    list-style: none;    
+}
+
+#nosotros{    
+    height: 400px;
+    background-image: url("https://scontent.ffdo2-1.fna.fbcdn.net/v/t39.30808-6/272985505_2202354686578484_7530478332212738552_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFtWlSF0tIoTFW89cvClbz_up4vHWo0Amy6ni8dajQCbP_gEZ4tis1GWFii8TF9QZEX02mHh_4ga4hXZjQ9cp7l&_nc_ohc=DkOsFoc1HzEAX_djoyY&_nc_ht=scontent.ffdo2-1.fna&oh=00_AfCXypyryU4nceCbzjRyetfDzVIBuiHo9xUoBVuhoDAN7Q&oe=647A9767");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
